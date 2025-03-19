@@ -1,0 +1,42 @@
+[Application settings for kitty]
+Description=Application settings for kitty
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+size=1600,1000
+sizerule=3
+wmclass=kitty
+wmclassmatch=1
+
+[Settings for chromium]
+Description=Settings for chromium
+desktops=
+desktopsrule=3
+size=1600,1000
+sizerule=3
+wmclass=chromium
+wmclasscomplete=true
+wmclassmatch=2
+
+[Settings for discord]
+Description=Settings for discord
+desktops=15c0f0a8-c7bc-4240-9090-9a9fd5089b34
+desktopsrule=3
+wmclass=discord
+wmclasscomplete=true
+wmclassmatch=2
+
+[Settings for obsidian]
+Description=Settings for obsidian
+desktops=
+desktopsrule=3
+opacityactive=98
+opacityactiverule=2
+opacityinactive=98
+opacityinactiverule=2
+size=1600,1000
+sizerule=3
+wmclass=obsidian
+wmclasscomplete=true
+wmclassmatch=1
